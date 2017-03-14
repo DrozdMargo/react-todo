@@ -52,7 +52,15 @@ li:hover span.delete-item {
 }
 .Footer a{
   padding-right: 5px;
+  color: #5ed1f1;
+}
+.Footer{
+  text-align: center;
+
 }
 .Footer a.active{
   font-weight: bold;
+}
+.success {
+  color: green;
 }
